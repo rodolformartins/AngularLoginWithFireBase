@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "teste-firebase-46044": {
+      "hosting": {
+        "projeto_firebase": [
+          "teste-firebase-46044"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "teste-firebase-46044"
+  }
+}
